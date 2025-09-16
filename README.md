@@ -18,7 +18,7 @@ class ComputerScienceEngineer:
 
     def __init__(self):
         self.name = "Ayoub EL AAMRI"
-        self.role = "Software Engineer"
+        self.role = "Senior Software Engineer"
         self.language_spoken = ["en_US", "fr_FR", "ar_MA", "es_ES"]
 
     def say_hi(self):
@@ -30,7 +30,7 @@ me.say_hi()
 
 ## 📝 Blogs
 
-- Personal website and blog: https://ayoubelaamri.me/
+- Personal website and blog: https://www.senorjob.com
 
 
 ## 🔧 Technologies & Tools
