@@ -1,4 +1,4 @@
-# Hey there 👋 I'm Ayoub El Aamri
+# Hey there 👋 I'm Ayoub EL AAMRI
 
 <p align="left">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=ayoubelaamri.ayoubelaamri" alt="visitors"/>
